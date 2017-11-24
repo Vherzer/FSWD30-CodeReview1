@@ -1,42 +1,47 @@
 * {
 	font-family: arial, helvetica;
-
-
-
 }
+
 .header {
 	background-color: #DE5255;
 	display: inline-flex;
 	height: 80px;
 	width: 1300px;
-
 }
+
 #logo {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+
 .name {
-	padding-top: 30                          jpx;
+	padding-top: 30px;
 	color: white;
 	font-size: 14px;
 }
+
+ul{
+	margin: 3px;
+	padding-top: 5px;
+}
+
 li {
 	display: inline;
 	color: white;
 	padding-left: 35px;
 	font-size: 12px;
-
 }
-a:link {
-	color: white;
 
-}
-a:visited {
+ul a:link {
 	color: white;
 }
-a:hover {
-	color: purple;
 
+ul a:visited {
+	color: white;
+}
+
+ul a:hover {
+	color: #DE5255 ;
 }
 
 nav {
@@ -44,37 +49,46 @@ nav {
 	height: 35px;
 	color: white;
 	width: auto;
+	margin: 0;
 }
 
 .images1 {
 	display: inline-flex;
-	width: 500px;
-
-
+	width: 400px;
+	margin: 0;
 }
+
 .images2 {
 	display: inline-flex;
-	width: 500px;
+	width: 400px;
 }
+
 #developers {
-	max-width: 250px;
+	max-height: 200px;
+	text-align: center;
+	max-width: 260px;
 	
-
 }
+
 #mic {
-	max-width: 250px;
-
-
+	max-height: 240px;
+	text-align: center;
+	max-width: 280px;
+	
 }
+
 #body {
-	max-width: 250px;
-
-
+	max-height: 200px;
+	text-align: center;
+	max-width: 260px;
 }
+
 #kids {
-	max-width: 250px;
-
+	max-height: 200px;
+	text-align: center;
+	max-width: 260px;
 }
+
 footer{
 	background-color: #DE5255;
 	height: 60px;
@@ -82,7 +96,19 @@ footer{
 	text-align: center;
 	width: auto;
 	}
+
 section {
-	text-align: center;
 	width: auto;
 }
+section href:link{
+	color: #DE5255;
+
+}
+section href:visited {
+	color: #DE5255;
+}
+
+ul a:hover {
+	color: #DE5255 ;
+}
+
