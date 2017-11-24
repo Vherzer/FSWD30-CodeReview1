@@ -114,3 +114,15 @@ ul a:hover {
 .contact h1{
 	color: #DE5255  ;
 }
+.contact h2{
+	border: solid;
+	border-color:#DE5255;
+	border-width: 2px;
+	padding-left: 5px;
+
+}
+.contact {
+	width: 330px ;
+	margin: 20px;
+
+}
