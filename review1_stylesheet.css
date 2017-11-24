@@ -1,18 +1,22 @@
 * {
 	font-family: arial, helvetica;
+
+
+
 }
 .header {
 	background-color: #DE5255;
 	display: inline-flex;
 	height: 80px;
-	width: 700px;
+	width: 1300px;
+
 }
 #logo {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 .name {
-	padding-top: 25px;
+	padding-top: 30                          jpx;
 	color: white;
 	font-size: 14px;
 }
@@ -37,36 +41,48 @@ a:hover {
 
 nav {
 	background-color: #868686;
-	height: 50px;
+	height: 35px;
 	color: white;
-	width: 700px;
+	width: auto;
 }
 
 .images1 {
 	display: inline-flex;
-	width: 700px;
+	width: 500px;
 
 
 }
 .images2 {
-	display: inline-flex
+	display: inline-flex;
+	width: 500px;
 }
 #developers {
-	max-width: 350px;
+	max-width: 250px;
 	
 
 }
 #mic {
-	max-width: 350px;
+	max-width: 250px;
 
 
 }
 #body {
-	max-width: 350px;
+	max-width: 250px;
 
 
 }
 #kids {
-	max-width: 350px;
+	max-width: 250px;
 
+}
+footer{
+	background-color: #DE5255;
+	height: 60px;
+	color: white;
+	text-align: center;
+	width: auto;
+	}
+section {
+	text-align: center;
+	width: auto;
 }
