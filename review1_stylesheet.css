@@ -1,0 +1,72 @@
+* {
+	font-family: arial, helvetica;
+}
+.header {
+	background-color: #DE5255;
+	display: inline-flex;
+	height: 80px;
+	width: 700px;
+}
+#logo {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.name {
+	padding-top: 25px;
+	color: white;
+	font-size: 14px;
+}
+li {
+	display: inline;
+	color: white;
+	padding-left: 35px;
+	font-size: 12px;
+
+}
+a:link {
+	color: white;
+
+}
+a:visited {
+	color: white;
+}
+a:hover {
+	color: purple;
+
+}
+
+nav {
+	background-color: #868686;
+	height: 50px;
+	color: white;
+	width: 700px;
+}
+
+.images1 {
+	display: inline-flex;
+	width: 700px;
+
+
+}
+.images2 {
+	display: inline-flex
+}
+#developers {
+	max-width: 350px;
+	
+
+}
+#mic {
+	max-width: 350px;
+
+
+}
+#body {
+	max-width: 350px;
+
+
+}
+#kids {
+	max-width: 350px;
+
+}
